@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NININOO
 - 👀 I’m interested in Creative Coding
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript & Python
 - 💞️ I’m looking to collaborate on interactive visualisations
 - 📫 How to reach me nina.stekovic@gmail.com
 
