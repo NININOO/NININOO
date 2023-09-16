@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NININOO
-- 👀 I’m interested in Creative Coding
+- 👀 I’m a Product Designer interested in Creative Coding and data Visualisation
 - 🌱 I’m currently learning Javascript & Python
 - 💞️ I’m looking to collaborate on interactive visualisations
 - 📫 How to reach me nina.stekovic@gmail.com
